@@ -11,3 +11,5 @@ use tempreature sensor to read and display tempreature data on an lcd or serial 
  BATCH DURATION - DEC 31ST,2024 TO JAN 31st,2025
 
  MENTOR NAME - NEELA SANTOSH
+
+ CIRCUIT DESGIN - https://github.com/arya092004/codtech-task1/blob/main/Terrific%20Densor-Maimu%20(1).png
